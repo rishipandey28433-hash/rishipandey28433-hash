@@ -65,3 +65,111 @@
 🚀 Improving Open Source Skills
 
 ---
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rishipandey28433-hash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishipandey28433-hash&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rishipandey28433-hash&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rishipandey28433-hash&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🤖 AI Resume Screening System
+
+✔️ AI-powered Resume Ranking
+
+✔️ Skill Matching
+
+✔️ ATS Friendly
+
+**Tech:** Python • Flask • Machine Learning
+
+</td>
+
+<td width="50%">
+
+### 🧠 OpenJarvis AI Assistant
+
+✔️ Voice Commands
+
+✔️ AI Chat
+
+✔️ Automation
+
+**Tech:** Python • AI • Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📈 Student Performance Prediction
+
+✔️ Machine Learning
+
+✔️ Data Analytics
+
+✔️ Early Warning System
+
+**Tech:** Python • Scikit-Learn • Pandas
+
+</td>
+
+<td width="50%">
+
+### 🏠 House Price Prediction
+
+✔️ Regression Model
+
+✔️ Data Visualization
+
+✔️ Price Prediction
+
+**Tech:** Python • ML • Matplotlib
+
+</td>
+
+</tr>
+
+</table>
+
+---
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/rishipandey28433-hash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
