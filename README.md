@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishipandey28433-hash/assets/main/github-banner.png" alt="Rishi Pandey Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Rishi Pandey</h1>
 
 <h3 align="center">
@@ -223,3 +226,8 @@
 - 🎯 Crack an AI/ML Role
 
 ---
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
