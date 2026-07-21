@@ -28,7 +28,26 @@
 🎯 Goal: **Become an AI Engineer**
 
 ⚡ Fun Fact: I love building projects more than watching tutorials 😄
+
 ---
+## 🏅 Certifications & Achievements
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/B.Tech-CSE-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-yellow?style=for-the-badge&logo=python"/>
+
+<img src="https://img.shields.io/badge/AI-Machine%20Learning-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Learner-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CodeAlpha-Intern-success?style=for-the-badge"/>
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -171,5 +190,36 @@
 </a>
 
 </p>
+
+---
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishipandey28433-hash/rishipandey28433-hash/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+---
+## 📈 Coding Activity
+
+```text
+💻 Python          ████████████░░░░░ 80%
+
+🤖 Machine Learning ██████████░░░░░░ 70%
+
+🌐 Web Development  █████████░░░░░░░ 65%
+
+🗄️ SQL              ████████░░░░░░░░ 60%
+
+⚡ Open Source      ██████░░░░░░░░░░ 45%
+```
+
+---
+## 🎯 2026 Goals
+
+- ✅ Build 10+ AI Projects
+- ✅ Master Machine Learning
+- 🔄 Learn Deep Learning
+- 🔄 Learn MLOps
+- 🔄 Contribute to Open Source
+- 🎯 Crack an AI/ML Role
 
 ---
